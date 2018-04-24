@@ -10,8 +10,8 @@ inverse x = Just (1 / x)
 > Veamos si se entiende: declará la función `raizCuadradaReal`, que devuelva la raiz cuadrada de un número positivo, o que falle si es negativo. No te olvides de tiparla. 
 > 
 > ```haskell
-> ム raizCuadradaReal 4
-> Just 2
-> ム raizCuadradaReal (-1)
+> ム raizCuadradaReal 4.0
+> Just 2.0
+> ム raizCuadradaReal (-1.0)
 > Nothing
 >```
