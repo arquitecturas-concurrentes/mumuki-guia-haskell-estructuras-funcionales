@@ -6,5 +6,3 @@ expectations:
   inspection: DeclaresFunction:vender
 - binding: "*"
   inspection: Except:HasRedundantParameter
-- binding: "*"
-  inspection: DeclaresTypeAlias:Foo
