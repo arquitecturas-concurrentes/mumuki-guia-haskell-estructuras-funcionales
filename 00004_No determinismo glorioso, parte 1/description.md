@@ -3,13 +3,13 @@
 ```prolog
 bastardoSinGloria(omar).
 bastardoSinGloria(oso).
-bastardoSinGlora(raine).
+bastardoSinGloria(raine).
 ```
 
 Podríamos obtener así todos los pares de _bastardos_:
 
 ```prolog
-? bastardoSinGlora(Uno), bastardoSinGlora(Otro), Uno /= Otro.
+? bastardoSinGloria(Uno), bastardoSinGloria(Otro), Uno /= Otro.
 Uno = omar,
 Otro = Oso;
 ....

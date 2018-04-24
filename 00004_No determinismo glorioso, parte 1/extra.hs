@@ -1,3 +1,3 @@
 bastardoSinGloria(omar).
 bastardoSinGloria(oso).
-bastardoSinGlora(raine).
+bastardoSinGloria(raine).
