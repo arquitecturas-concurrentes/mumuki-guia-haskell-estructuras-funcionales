@@ -1,0 +1,3 @@
+Ahora que recordamos Haskell, vamos a lo que nos interesa: las estructuras (de datos) funcionales clásicas del paradigma.
+
+No tienen nada de extraño, y a las mismas las podríamos haber aprendido en C o Pascal. Pero son particularmente fácil de expresar y utilizar en un lenguaje funcional, dado que además de contar con registros (léase, los structs de C) , contamos con tipos algebraicos de datos (AGDT: algebraic data type), que son una variante mejorada de los tipos unión (unions de C)
