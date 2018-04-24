@@ -1,5 +1,3 @@
-En lecciones anteriores vimos los conceptos de falla, no determinismo y excepción. También vimos dos patrones de comunicación: _CPS_ y `Promises`, además de los [streams observables](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-6-observables-403187293d2e)
+¡Hola! Haskell y el pardigma funcional son dos grandes herramientas para entender mejor sobre la concurrencia, los patrones de comunicación y las dualidades contenedor-computación que éstos nos proponen. 
 
-Y por último, vieron la luz palabras como functores y mónadas. Nuestra propuesta para entender mejor estas ideas es encararlas desde otro ángulo: el paradigma funcional.
-
-Par empezar, presentaremos algunos aspectos que nos interesan de Haskell, lenguaje funcional por antonomasia, y algunas estructuras funcionales fundamentales que nos acompañarán en nuestro recorrido por las arquitecturas concurrentes.
+Por eso, es un excelente momento para volver a ver las estructuras funcionales clásicas como _listas_, _maybes_ e _eithers_ con otros ojos. Y de paso, aprender sobre los tipos algebraicos de datos en Haskell. ¡Seguínos!
