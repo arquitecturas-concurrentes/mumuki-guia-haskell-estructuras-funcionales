@@ -10,3 +10,5 @@ Estamos de acuerdo que implementar excepciones mediante Either no parece aún ma
 Pero también perdimos la propagación automática de errores, que es lo que vuelva a la excepciones valiosas. Ya la recuperaremos cuando veamos functores, mónadas y functores aplicativos.
 
 En Haskell hay muchas forms de manejar errores y excepciones. Either es sólo una de ellas
+
+> Veamos si queda claro: reimplementá `raizCuadradaReal` pero ahora de forma que retorne un `Either`
