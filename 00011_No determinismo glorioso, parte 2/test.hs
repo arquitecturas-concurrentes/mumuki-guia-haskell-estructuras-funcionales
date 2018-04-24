@@ -3,4 +3,4 @@ describe "" $ do
     length parGlorioso `shouldBe` 6
     
   it "parGlorioso incluye (omar, oso)" $ do
-     parGlorioso `shouldContain` ("omar", "oso")
+     parGlorioso `shouldContain` [("omar", "oso")]
