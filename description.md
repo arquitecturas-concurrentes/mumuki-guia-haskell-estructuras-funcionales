@@ -1,3 +1,3 @@
 ¡Hola! Haskell y el pardigma funcional son dos grandes herramientas para entender mejor sobre la concurrencia, los patrones de comunicación y las dualidades contenedor-computación que éstos nos proponen. 
 
-Por eso, es un excelente momento para volver a ver las estructuras funcionales clásicas como _listas_, _maybes_ e _eithers_ con otros ojos. Y de paso, aprender sobre los tipos algebraicos de datos en Haskell. ¡Seguínos!
+Por eso, es un excelente momento para volver a ver las estructuras funcionales clásicas como _listas_, _maybes_ e _eithers_ con otros ojos. Y de paso, aprender sobre los tipos algebraicos de datos en Haskell. ¡Seguínos! :muscle:
