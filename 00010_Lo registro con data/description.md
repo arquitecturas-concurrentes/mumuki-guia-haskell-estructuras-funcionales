@@ -6,7 +6,7 @@ data Venta = Venta String String deriving (Show, Eq)
 
 Y se lee así: _un registro venta está compuesto por dos strings_. La cláusula `deriving (Show, Eq)` es opcional, pero nos va a permitir utilizarlo en la consola y compararlo mediante `==`. 
 
-Luego, la forma de crear ventas es fácil: 
+Luego, la forma de construir ventas es fácil: 
 
 ```
 ム Venta "remera naiqui" "palermo"
