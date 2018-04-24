@@ -1,3 +1,8 @@
-Ahora que recordamos Haskell, vamos a lo que nos interesa: las estructuras (de datos) funcionales clásicas del paradigma.
+¿Y para qué nos sirve ésto? ¿Aporta algo `data`? ¡Sí! Porque aunque hay casos de registros que se pueden pensar indistintamente con tuplas o con `data`, los `data` son mucho más poderosos que ésto. Conozcamos a los tipos algebraicos de datos: 
 
-No tienen nada de extraño, y a las mismas las podríamos haber aprendido en C o Pascal. Pero son particularmente fácil de expresar y utilizar en un lenguaje funcional, dado que además de contar con registros (léase, los structs de C) , contamos con tipos algebraicos de datos (AGDT: algebraic data type), que son una variante mejorada de los tipos unión (unions de C)
+```haskell
+data Figura = Cuadrado Int
+            | Rectangulo Int Int
+            | Triangulo Int Int Int deriving (Show, Eq)
+```            
+            
