@@ -5,7 +5,7 @@ bastardoSinGlora(Uno), bastardoSinGlora(Otro), Uno /= Otro.
 ```
 
 ```haskell
-[(uno, otro)| uno <- bastadoSinGloria, otro <- bastardoSinGloria, uno != otro]
+[(uno, otro)| uno <- bastadoSinGloria, otro <- bastardoSinGloria, uno \= otro]
 ```
 
 
