@@ -1,11 +1,11 @@
 ¡Bien! ¿O no que se parecen estas dos soluciones? 
 
 ```prolog
-bastardoSinGlora(Uno), bastardoSinGlora(Otro), Uno /= Otro.
+bastardoSinGlora(Uno), bastardoSinGlora(Otro), Uno \= Otro.
 ```
 
 ```haskell
-[(uno, otro)| uno <- bastadoSinGloria, otro <- bastardoSinGloria, uno \= otro]
+[(uno, otro)| uno <- bastadoSinGloria, otro <- bastardoSinGloria, uno /= otro]
 ```
 
 
