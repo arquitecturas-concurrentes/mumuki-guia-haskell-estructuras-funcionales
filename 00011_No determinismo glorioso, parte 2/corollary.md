@@ -1,4 +1,14 @@
-¡Bien! Ahora tanto `bastadoSinGloria` como `parGlorioso` son funciones que pueden arrojar múltiples (_un número indeterminado_) de soluciones.  
+¡Bien! ¿O no que se parecen estas dos soluciones? 
+
+```prolog
+bastardoSinGlora(Uno), bastardoSinGlora(Otro), Uno /= Otro.
+```
+
+```haskell
+
+Ahora tanto `bastadoSinGloria` como `parGlorioso` son funciones que pueden arrojar múltiples (_un número indeterminado_) de soluciones.  
+
+
 
 ¡Y eso es el _no determinismo_! 
 
