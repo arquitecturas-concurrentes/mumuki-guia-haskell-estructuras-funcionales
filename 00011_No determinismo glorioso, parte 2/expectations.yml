@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: UsesComprehensions
+- binding: parGlorioso
+  inspection: Uses:bastadoSinGloria
