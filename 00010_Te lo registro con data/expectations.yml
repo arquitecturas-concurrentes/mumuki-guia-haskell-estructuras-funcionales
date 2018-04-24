@@ -4,3 +4,5 @@ expectations:
   inspection: Not:DeclaresTypeAlias
 - binding: "*"
   inspection: Declares:Venta
+- binding: "*"
+  inspection: Except:HasRedundantParameter
