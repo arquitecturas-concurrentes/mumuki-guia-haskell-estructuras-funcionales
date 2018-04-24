@@ -1,6 +1,6 @@
-Nuestra siguiente estructura es Maybe, también conocida como Option u Optional:
+Nuestra siguiente estructura es `Maybe`, también conocida como  Option` u `Optional`:
 
-```
+```haskell
 data Maybe a = Just a | Nothing deriving (Show, Eq)
 ```
 
