@@ -2,5 +2,5 @@
 expectations:
 - binding: "*"
   inspection: UsesComprehensions
-- binding: parGlorioso
+- binding: "*"
   inspection: Uses:bastardoSinGloria
