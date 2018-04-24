@@ -1,6 +1,6 @@
 Ah, pero no hay nada muy interesante en ver cómo se implementa una lista en funcional, ¿o sí? 
 
-En realidad sí hay algo novedoso en esto de las estructuras funcionales: cada una de ellas presenta una _dualidad_, pudiendo ser ser pensada tanto como 
+En realidad sí hay algo novedoso en esto de las estructuras funcionales: cada una de ellas presenta una _dualidad_, pudiendo ser pensada tanto como 
 
   * una estructura de datos; 
   * o bien, como una estructura de control. 
