@@ -9,7 +9,7 @@ bastardoSinGlora(raine).
 Podríamos obtener así todos los pares de _bastardos_:
 
 ```prolog
-? bastardoSinGlora(Uno), bastardoSinGlora(Otro).
+? bastardoSinGlora(Uno), bastardoSinGlora(Otro), Uno /= Otro.
 Uno = omar,
 Otro = Oso;
 ....
