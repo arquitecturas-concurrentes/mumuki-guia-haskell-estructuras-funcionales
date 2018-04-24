@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: Not:DeclaresTypeAlias
+- binding: "*"
+  inspection: Declares:Venta
