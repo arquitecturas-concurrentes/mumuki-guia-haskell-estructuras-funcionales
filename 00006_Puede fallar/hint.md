@@ -1,0 +1,1 @@
+La raiz cuadrada en Haskell se calcula mediante la función `sqrt`. 
