@@ -8,6 +8,6 @@ bastardoSinGlora(raine).
 
 podríamos escribirla así:
 
-```
+```haskell
 bastardoSinGloria = ["omar", "oso", "raine"]
 ```
