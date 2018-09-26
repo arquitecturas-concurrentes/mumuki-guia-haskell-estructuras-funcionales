@@ -1,4 +1,4 @@
-¿Y si pensamos a la lista como computación? Diremos que una función que devuelve una lista representa representa una _computación no determinística_. Por ejemplo, si en _Prolog_ tenemos una computación no deterministica, que produce a un bastardo sin gloria:
+¿Y si pensamos a la lista como computación? Diremos que una función que devuelve una lista representa una _computación no determinística_. Por ejemplo, si en _Prolog_ tenemos una computación no determinística, que produce a un bastardo sin gloria:
 
 ```prolog
 bastardoSinGloria(omar).
