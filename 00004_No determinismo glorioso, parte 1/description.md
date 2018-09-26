@@ -11,7 +11,7 @@ Podríamos obtener así todos los pares de _bastardos_:
 ```prolog
 ? bastardoSinGloria(Uno), bastardoSinGloria(Otro), Uno \= Otro.
 Uno = omar,
-Otro = Oso;
+Otro = oso;
 ....
 ```
 
