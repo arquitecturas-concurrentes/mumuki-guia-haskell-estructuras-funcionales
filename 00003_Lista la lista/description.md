@@ -6,7 +6,7 @@ En Haskell la lista ya viene definida con una sintaxis especial, pero ahora que 
 data List a = Nil | Cons a (List a)
 ```
 
-En la que se ven claramente los dos casos que mencionamos antes: lista vacía (`Nil`) ó lista llena (`Cons`). Y podemos usarla así:
+En la que se ven claramente los dos casos que mencionamos antes: lista vacía (`Nil`) o lista llena (`Cons`). Y podemos usarla así:
 
 ```haskell
 laLista123 = Cons 1 (Cons 2 (Cons 3 Nil))
