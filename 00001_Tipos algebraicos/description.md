@@ -1,4 +1,4 @@
-¿Y para qué nos sirve ésto? ¿Aporta algo `data`? ¡Sí! Porque aunque hay casos de registros que se pueden pensar indistintamente con tuplas o con `data`, los `data` son mucho más poderosos que ésto. Conozcamos a los tipos algebraicos de datos: 
+¿Y para qué nos sirve esto? ¿Aporta algo `data`? ¡Sí! Porque aunque hay casos de registros que se pueden pensar indistintamente con tuplas o con `data`, los `data` son mucho más poderosos que ésto. Conozcamos a los tipos algebraicos de datos: 
 
 ```haskell
 data Figura = Cuadrado Int
@@ -19,6 +19,6 @@ Rectangulo 20 12
 False -- se pueden comparar, y no dan un error de tipos :0
 ```
 
-¿Y ésto para que nos puede servir? Veamos unos ejemplos a continuación...
+¿Y esto para que nos puede servir? Veamos unos ejemplos a continuación...
 
 
