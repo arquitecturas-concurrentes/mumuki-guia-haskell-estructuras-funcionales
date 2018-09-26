@@ -15,4 +15,4 @@ Ahora tanto `bastadoSinGloria` como `parGlorioso` son funciones que pueden arroj
 
 ¡Y eso es el _no determinismo_! 
 
-Ahora veamos otro ejemplo de estructura funcionalidad y su dualidad. 
+Ahora veamos otro ejemplo de estructura funcional y su dualidad. 
